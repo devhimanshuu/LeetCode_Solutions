@@ -27,7 +27,7 @@ Clone this repository to browse through the solutions or refer to specific imple
 
 ```bash
 git clone https://github.com/yourusername/Leetcode-Solutions.git
-cd Leetcode-SolutionS
+cd Leetcode-Solutions
 ```
 
 ## 🛠 Languages
